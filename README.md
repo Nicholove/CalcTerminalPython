@@ -2,18 +2,7 @@
 Calculadora básica executada através do terminal
 
 ## Operações
-1.  SOMA
-2.  SUBTRAÇÃO
-3.  DIVISÃO
-4.  MULTIPLICAÇÃO
-5.  RADICIAÇÃO DE QUADRADOS
-6.  RADICIAÇÃO DE CUBOS
-7.  EXPONENCIAÇÃO
-8.  PORCENTAGEM
-9.  FATORIAL
-10. SENO
-11. COSSENO
-12. TANGENTE
+![Printscreen](https://github.com/Nicholove/CalcTerminalPython/blob/master/Calc_Img1.png)
 
 ## Pré-requisitos:
 - Linguagem Python instalada na máquina
