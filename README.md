@@ -13,3 +13,4 @@ Realiza 12 operações matemáticas por meio do terminal:
 [10] SENO
 [11] COSSENO
 [12] TANGENTE
+A calculadora é simples e intuitiva.
